@@ -1,0 +1,48 @@
+{
+"events": [
+  {
+    "id": 3454223,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day",
+    "description": "Find your own feline friend",
+    "location": "City",
+    "date": "Feb 05th",
+    "time": "12:00pm",
+    "petsAllowed": true,
+    "organizer": "Naca"
+  },
+  {
+    "id": 3454224,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day 2",
+    "description": "Find your own feline friend",
+    "location": "City",
+    "date": "Feb 05th",
+    "time": "12:00pm",
+    "petsAllowed": false,
+    "organizer": "Naca"
+  },
+  {
+    "id": 3454225,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day 3",
+    "description": "Find your own feline friend",
+    "location": "City",
+    "date": "Feb 05th",
+    "time": "12:00pm",
+    "petsAllowed": false,
+    "organizer": "Naca"
+  },
+  {
+    "id": 3454226,
+    "category": "animal welfare",
+    "title": "Cat Adoption Day 4",
+    "description": "Find your own feline friend",
+    "location": "City",
+    "date": "Feb 05th",
+    "time": "12:00pm",
+    "petsAllowed": true,
+    "organizer": "Naca"
+  }
+]
+}
